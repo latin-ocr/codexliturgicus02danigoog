@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./codexliturgicus02danigoog_0010.png"; bbox 0 0 3174 5176; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 282 580 1226 790">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 282 580 1226 790">
+     <span class='ocr_line' id='line_1_1' title="bbox 282 580 1226 790; baseline 0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 282 582 595 790; x_wconf 70' lang='lat' dir='ltr'>colfflx</span> <span class='ocrx_word' id='word_1_2' title='bbox 646 580 1226 790; x_wconf 73' lang='lat' dir='ltr'>uwssfflcvs</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 130 1149 1376 1269">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 130 1149 1376 1269">
+     <span class='ocr_line' id='line_1_2' title="bbox 130 1149 1376 1269; baseline 0.001 -1"><span class='ocrx_word' id='word_1_3' title='bbox 130 1150 516 1268; x_wconf 74' lang='lat' dir='ltr'><strong>ECOLESIAE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 573 1149 1376 1269; x_wconf 70' lang='lat' dir='ltr'><strong>ROMANO-0ATHOL10AE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 106 1582 1127 1713">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 106 1582 1127 1713">
+     <span class='ocr_line' id='line_1_3' title="bbox 106 1582 1127 1713; baseline 0.005 -5"><span class='ocrx_word' id='word_1_5' title='bbox 106 1582 114 1591; x_wconf 78' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 380 1628 431 1709; x_wconf 73' lang='lat' dir='ltr'><em>m</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 468 1622 770 1709; x_wconf 72' lang='grc' dir='ltr'>ΕΡιτοΜΕΝ</span> <span class='ocrx_word' id='word_1_8' title='bbox 811 1624 1127 1713; x_wconf 69' lang='lat' dir='ltr'>stssnfflvs.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1592 5176">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1592 5176">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1592 5176; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1592 5176; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
